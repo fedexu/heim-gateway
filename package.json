@@ -1,10 +1,9 @@
 {
   "name": "heim-gateway",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "git": "https://github.com/fedexu/heim-gateway.git",
+  "author": "Federico Peruzzi",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
